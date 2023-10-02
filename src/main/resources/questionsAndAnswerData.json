@@ -1,0 +1,112 @@
+[
+  {
+    "questionId": 1,
+    "imageLink": "question1.jpg",
+    "questionText": "Как ты относишься к новым людям?",
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "Я открыт и дружелюбен к каждому.",
+        "nextQuestionKeyId": 2
+      },
+      {
+        "answerId": 2,
+        "answerText": "Мне нужно время, чтобы с ними разобраться.",
+        "nextQuestionKeyId": 2
+      },
+      {
+        "answerId": 3,
+        "answerText": "Первое время я скрытен и осторожен.",
+        "nextQuestionKeyId": 2
+      }
+    ]
+  },
+  {
+    "questionId": 2,
+    "imageLink": "question2.jpg",
+    "questionText": "Как ты проводишь время на улице?",
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "Я люблю бегать и исследовать все вокруг.",
+        "nextQuestionKeyId": 3
+      },
+      {
+        "answerId": 2,
+        "answerText": "Мне нравится сидеть на солнышке и наблюдать за окружающим миром.",
+        "nextQuestionKeyId": 3
+      },
+      {
+        "answerId": 3,
+        "answerText": "Часто предпочитаю оставаться дома и спать.",
+        "nextQuestionKeyId": 3
+      }
+    ]
+  },
+  {
+    "questionId": 3,
+    "imageLink": "question3.jpg",
+    "questionText": "Как ты реагируешь на новые ситуации?",
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "Я быстро приспосабливаюсь и ищу решения.",
+        "nextQuestionKeyId": 4
+      },
+      {
+        "answerId": 2,
+        "answerText": "Мне нужно время, чтобы осознать и принять новую ситуацию.",
+        "nextQuestionKeyId": 601
+      },
+      {
+        "answerId": 3,
+        "answerText": "Я проявляю осторожность и рассматриваю все возможные варианты.",
+        "nextQuestionKeyId": 4
+      }
+    ]
+  },
+  {
+    "questionId": 4,
+    "imageLink": "question4.jpg",
+    "questionText": "Какими словами тебя чаще всего описывают друзья и знакомые?",
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "Энергичный и любознательный.",
+        "nextQuestionKeyId": 602
+      },
+      {
+        "answerId": 2,
+        "answerText": "Спокойный и умиротворенный.",
+        "nextQuestionKeyId": 603
+      },
+      {
+        "answerId": 3,
+        "answerText": "Осторожный и наблюдательный.",
+        "nextQuestionKeyId": 604
+      }
+    ]
+  },
+  {
+    "questionId": 601,
+    "imageLink": "result1.jpg",
+    "questionText": "очень умным и изобретательным "
+  },
+  {
+    "questionId": 602,
+    "imageLink": "result2.jpg",
+    "questionText": " очень изворотливым и креативным "
+  },
+  {
+    "questionId": 603,
+    "imageLink": "result3.jpg",
+    "questionText": "очень наблюдательным и спокойным "
+  },
+  {
+    "questionId": 604,
+    "imageLink": "result4.jpg",
+    "questionText": "очень рациональным и проницательным "
+  }
+]
+
+
