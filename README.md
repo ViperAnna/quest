@@ -13,4 +13,4 @@ The project used technologies:
 
 ## Start
 Starting the application:
-Use еo run Tomcat 10.1.12 to run. Initial URL "/"
+Use to run Tomcat 10.1.12 to run. Initial URL "/"
